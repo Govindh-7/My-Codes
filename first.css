@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body
+{
+	background-image:url(https://wallpaperaccess.com/full/263028.jpg);
+	background-size:cover;
+	
+	background-repeat:no-repeat;
+}
+nav ul
+{
+
+	color:silver;
+	margin:0;
+  
+  display:flex;
+  padding: 10px 5px;
+ 
+}
+li,a
+{
+	 margin: 0 10px;
+	color:silver;
+	text-decoration:none;
+	
+}
+
+li,a:hover
+{
+	text-decoration:none;
+	color:blue;
+	list-style:none;
+}
+center
+{
+	padding-right:720px;
+	padding-top:150px;
+	color:silver;
+}
+body, footer {
+  margin: 0;
+  padding: 0;
+}
